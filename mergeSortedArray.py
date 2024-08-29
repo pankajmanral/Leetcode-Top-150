@@ -1,6 +1,8 @@
 # In this question we have to merge the two list *in-place* i.e we cannot use extra space the 0's in the nums1 list 
 # The 0's have to be replaced 
 
+#Time complexity = O(n)
+
 nums1 = [1,2,3,0,0,0] 
 nums2 = [2,5,6]
 m = 3
